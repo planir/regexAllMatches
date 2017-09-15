@@ -1,0 +1,25 @@
+{
+  "name": "regexallmatches",
+  "version": "1.0.3",
+  "description": "Get all matches of a regular expression",
+  "main": "index.js",
+  "author": "Fauce Mocharrafich <planir11@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planir/regexallmatches.git"
+  },
+  "keywords": [
+    "regex",
+    "matches"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/planir/regexallmatches/issues"
+  },
+  "homepage": "https://github.com/planir/regexallmatches#readme"
+}
