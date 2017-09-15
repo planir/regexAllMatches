@@ -47,7 +47,7 @@ regexAllMatches("uno dos tres", /[a-z]+/g)
 var between_digits = "3,16";
 
 // You can pass a string on the second argument and a third argument in the function to indicate the flags
-regexAllMatches("marcos8", '^[a-z0-9_-]{' + between_digits + '}$', 'g').groups);
+regexAllMatches("marcos8", '^[a-z0-9_-]{' + between_digits + '}$', 'g').groups;
 
 // => { '0': [ 'marcos8' ] }
 ```
